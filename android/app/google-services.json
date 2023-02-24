@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775522765225",
+    "firebase_url": "https://fridge-noti-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fridge-noti",
+    "storage_bucket": "fridge-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775522765225:android:2253f3abf7462c746a5cb8",
+        "android_client_info": {
+          "package_name": "com.fridgenotimvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775522765225-g3b640fu144fmkdlsist7kpfj87vct23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp_E18MoUQu0XH3DHChPhMDzZed596uqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775522765225-g3b640fu144fmkdlsist7kpfj87vct23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
